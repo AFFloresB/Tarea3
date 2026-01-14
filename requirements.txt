@@ -1,0 +1,7 @@
+imbalanced-learn
+scikit-learn
+plotly
+numpy
+pandas
+kaggle
+python-dotenv
